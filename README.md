@@ -1,6 +1,6 @@
-# 🚢 PortPulse AI
+# 🚢 ContainerPulse AI
 
-PortPulse AI is a real-time logistics visibility platform that simulates container movement events, streams them through Kafka, stores them in PostgreSQL, visualizes operational insights in Streamlit, and enables natural-language analytics using Gemini.
+ContainerPulse AI is a real-time logistics visibility platform that simulates container movement events, streams them through Kafka, stores them in PostgreSQL, visualizes operational insights in Streamlit, and enables natural-language analytics using Gemini.
 
 ## Architecture
 
